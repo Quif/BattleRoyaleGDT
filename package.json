@@ -1,0 +1,13 @@
+{
+    "id": "Battle Royale",
+    "name": "Battle Royale",
+    "version": "0.0.1",
+    "author": "Megaline <agariomadman@gmail.com>",
+    "description": "A battle royale mod for Game Dev Tycoon. This mod adds a Battle Royale topic to the game.",
+    "url": "https://github.com/Quif/BattleRoyaleGDT",
+    "main": "./Battleroyale.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    },
+    "image": "icon-Thumbnail.png"
+}
